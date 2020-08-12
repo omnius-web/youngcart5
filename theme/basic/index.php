@@ -13,6 +13,8 @@ if(G5_COMMUNITY_USE === false) {
 }
 
 include_once(G5_THEME_PATH.'/head.php');
+
+
 ?>
 
 <h2 class="sound_only">최신글</h2>
